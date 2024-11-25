@@ -11,4 +11,4 @@ Design a type-safe Content Management System (CMS) using TypeScript. The system 
 ## Requirements
 - Use advanced TypeScript features such as generics and type aliases.
 - Ensure type safety across the system for various content types, user roles, a
-# JSlab5
+
